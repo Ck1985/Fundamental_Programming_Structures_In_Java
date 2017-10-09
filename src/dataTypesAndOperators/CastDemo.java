@@ -14,7 +14,7 @@ public class CastDemo {
         y = 3.0;
 
         i = (int)(x / y); // cast double to int
-        System.out.println("Integer outcoming of x / y = " + i);
+        System.out.println("Integer out coming of x / y = " + i);
 
         i = 100;
         b = (byte)i;
